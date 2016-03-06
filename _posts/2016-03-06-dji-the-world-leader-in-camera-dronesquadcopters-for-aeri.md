@@ -8,22 +8,22 @@ publisher:
   domain: www.dji.com
 keywords:
   - dji
-  - geo
-  - unlocked
-  - locations
-  - zone
-  - operators
+  - arbitration
+  - hardware
   - flight
-  - system
-  - airport
-  - authorized
-description: 'As the market leader in easy-to-fly drones and aerial photography systems, DJI quadcopters like the Phantom are the standard in consumer drone technology.'
+  - service
+  - app
+  - terms
+  - environment
+  - agree
+  - warranties
+description: 'Thank you for your interest in the DJI Go application (the "DJI Go App") offered by SZ DJI Technology Co., Ltd. ( "DJI"). Please read the following terms and conditions carefully.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.dji.com/mobile/flysafe/geo-system/details#notes'
+isBasedOnUrl: 'http://www.dji.com/mobile/flysafe/geo-system/unlock'
 title: DJI - The World Leader in Camera Drones/Quadcopters for Aerial Photography
-datePublished: '2016-03-06T15:31:41.436Z'
-dateModified: '2016-01-02T07:11:52.409Z'
+datePublished: '2016-03-06T15:31:50.834Z'
+dateModified: '2016-01-02T07:11:14.624Z'
 sourcePath: _posts/2016-03-06-dji-the-world-leader-in-camera-dronesquadcopters-for-aeri.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>DJI - The World Leader in Camera Drones&amp;sol;Quadcopters for Aerial Photography</h1><p>As the market leader in easy-to-fly drones and aerial photography systems&amp;comma; DJI quadcopters like the Phantom are the standard in consumer drone technology&amp;period;</p></article>
+<article style=""><h1>DJI - The World Leader in Camera Drones&amp;sol;Quadcopters for Aerial Photography</h1><p>Thank you for your interest in the DJI Go application &amp;lpar;the "DJI Go App"&amp;rpar; offered by SZ DJI Technology Co&amp;period;&amp;comma; Ltd&amp;period; &amp;lpar; "DJI"&amp;rpar;&amp;period; Please read the following terms and conditions carefully&amp;period;</p></article>
