@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/dvproductions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.dronecoalition.net/abaker/files/2015/09/Solo_Teardown16.jpg">]]></description>
+            <link>http://www.dronecoalition.net/abaker/under-the-hood-3dr-solo-part-3/</link>
+            <guid isPermaLink="false">dd857677-8b8b-46bd-a7a5-f6c8735d5f2c</guid>
+            <pubDate>Sun, 06 Mar 2016 15:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.dronecoalition.net/jfoster/files/2015/11/UAV_Montage-600.png">]]></description>
             <link>http://www.dronecoalition.net/</link>
             <guid isPermaLink="false">9557243e-dc68-4b70-a349-ee29ca713b5b</guid>
