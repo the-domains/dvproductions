@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[dvproductions]]></title>
         <description><![CDATA[dvproductions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dvproductions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:07:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 15:24:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dvproductions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn.shopify.com/s/files/1/0972/5566/products/PeauPro82_front__lvl_medium.JPG?v=1450747314">]]></description>
+            <link>https://thegrid.ai/dvproductions/de0d8d7b-2769-4291-a4aa-18d45a2c5ceb/index.html</link>
+            <guid isPermaLink="false">de0d8d7b-2769-4291-a4aa-18d45a2c5ceb</guid>
+            <pubDate>Sun, 06 Mar 2016 15:23:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://3drobotics.com/wp-content/uploads/2015/10/IMG_PROD_SOLO-CONTROLLER_NEW_011-1.png">]]></description>
