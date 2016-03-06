@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[dvproductions]]></title>
+        <description><![CDATA[dvproductions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 15:07:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://3drobotics.com/wp-content/uploads/2015/10/IMG_PROD_SOLO-CONTROLLER_NEW_011-1.png">]]></description>
+            <link>https://3drobotics.com/boxing-week-au/?utm_source=facebook&amp;utm_medium=cpc&amp;utm_campaign=boxing+week</link>
+            <guid isPermaLink="false">62afadc8-b4f3-4ca8-99a4-d84ef99ec3f7</guid>
+            <pubDate>Sun, 06 Mar 2016 15:07:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
