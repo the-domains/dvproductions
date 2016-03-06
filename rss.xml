@@ -4,8 +4,15 @@
         <description><![CDATA[dvproductions]]></description>
         <link>https://thegrid.ai/dvproductions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:34:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dvproductions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.dronecoalition.net/sfrench/files/2015/10/mg_7009.jpg">]]></description>
+            <link>http://www.dronecoalition.net/sfrench/its-long-overdue-but-the-mainstream-media-buzzfeed-just-addressed-the-gender-gap-in-drones/</link>
+            <guid isPermaLink="false">00128841-958f-46c1-902a-b45e467eda68</guid>
+            <pubDate>Sun, 06 Mar 2016 15:33:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.dronecoalition.net/jfoster/files/2015/11/ShowCover.aspx_-683x1024.jpeg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.dronecoalition.net/page/5/</link>
             <guid isPermaLink="false">d9b9a6bb-c4ae-4ab4-875a-b782e5415b9c</guid>
             <pubDate>Sun, 06 Mar 2016 15:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.dronecoalition.net/jfoster/files/2015/09/Tayzu_Robotics_Titan_X8_Configs-600.jpg">]]></description>
-            <link>http://www.dronecoalition.net/page/5/</link>
-            <guid isPermaLink="false">fe0f959c-799f-4db5-b523-4e9e7068e251</guid>
-            <pubDate>Sun, 06 Mar 2016 15:29:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
