@@ -4,15 +4,8 @@
         <description><![CDATA[dvproductions]]></description>
         <link>https://thegrid.ai/dvproductions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:33:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dvproductions/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://pixelpainter.com/DC_media/Skypixel-Chicago.png">]]></description>
-            <link>http://www.dronecoalition.net/page/4/</link>
-            <guid isPermaLink="false">fc7106c2-0137-417b-98cb-a5cdf11c9f8b</guid>
-            <pubDate>Sun, 06 Mar 2016 15:33:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.dronecoalition.net/jfoster/files/2015/11/rixtwczv1m2bewxblw3l.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.dronecoalition.net/page/5/</link>
             <guid isPermaLink="false">33a01159-5f0e-4e82-94c4-69536b7925f0</guid>
             <pubDate>Sun, 06 Mar 2016 15:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.dronecoalition.net/jfoster/files/2015/10/DroneDefender-1.png">]]></description>
+            <link>http://www.dronecoalition.net/page/3/</link>
+            <guid isPermaLink="false">dd686aa3-9eb8-49ee-9d0d-3172a5b575ca</guid>
+            <pubDate>Sun, 06 Mar 2016 15:29:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
