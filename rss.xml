@@ -4,8 +4,15 @@
         <description><![CDATA[dvproductions]]></description>
         <link>https://thegrid.ai/dvproductions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:29:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dvproductions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.dronecoalition.net/jfoster/files/2015/09/Tayzu_Robotics_Titan_X8_Configs-600.jpg">]]></description>
+            <link>http://www.dronecoalition.net/page/5/</link>
+            <guid isPermaLink="false">fe0f959c-799f-4db5-b523-4e9e7068e251</guid>
+            <pubDate>Sun, 06 Mar 2016 15:29:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.dronecoalition.net/csmith/files/2015/09/itlmodes-300x169.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.removu.com/removu-p1/</link>
             <guid isPermaLink="false">694b5c31-897a-473d-9f64-0cf2a905bfa8</guid>
             <pubDate>Sun, 06 Mar 2016 15:24:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://cdn.shopify.com/s/files/1/0972/5566/products/PeauPro82_front__lvl_medium.JPG?v=1450747314">]]></description>
-            <link>https://thegrid.ai/dvproductions/de0d8d7b-2769-4291-a4aa-18d45a2c5ceb/index.html</link>
-            <guid isPermaLink="false">de0d8d7b-2769-4291-a4aa-18d45a2c5ceb</guid>
-            <pubDate>Sun, 06 Mar 2016 15:23:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
