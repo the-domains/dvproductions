@@ -4,8 +4,15 @@
         <description><![CDATA[dvproductions]]></description>
         <link>https://thegrid.ai/dvproductions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:30:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dvproductions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.dronecoalition.net/csmith/files/2015/08/Screen-Shot-2015-08-30-at-11.21.31-AM-1024x537.png">]]></description>
+            <link>http://www.dronecoalition.net/page/5/</link>
+            <guid isPermaLink="false">d9b9a6bb-c4ae-4ab4-875a-b782e5415b9c</guid>
+            <pubDate>Sun, 06 Mar 2016 15:29:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.dronecoalition.net/jfoster/files/2015/09/Tayzu_Robotics_Titan_X8_Configs-600.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.dronecoalition.net/abaker/under-the-hood-3dr-solo-part-2/</link>
             <guid isPermaLink="false">2bb3b783-7e27-43b8-82a2-0d0fd9818388</guid>
             <pubDate>Sun, 06 Mar 2016 15:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://www.removu.com/wp-content/uploads/2015/04/p1_slide_tilt.png">]]></description>
-            <link>https://www.removu.com/removu-p1/</link>
-            <guid isPermaLink="false">694b5c31-897a-473d-9f64-0cf2a905bfa8</guid>
-            <pubDate>Sun, 06 Mar 2016 15:24:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
