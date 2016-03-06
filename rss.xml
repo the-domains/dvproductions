@@ -4,8 +4,15 @@
         <description><![CDATA[dvproductions]]></description>
         <link>https://thegrid.ai/dvproductions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:31:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dvproductions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rise and Shine]]></title>
+            <description><![CDATA[<article><h1>Rise and Shine</h1><p>Using a 250 sized mini quad for aerial cinematography is not only possible, but the ONLY way to achieve this shot. Gopro Hero 4 black stabilized with ReelSteady. www.ReelSteady.com Aerial inquiries: RobertMcIntoshInfo@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ca8cfbc869bb6e3db3f4e4a0eadaed12c1eea8a.jpg"></article>]]></description>
+            <link>https://vimeo.com/149850024</link>
+            <guid isPermaLink="false">65dd10dd-17e8-48f4-9c42-b6758ae641ad</guid>
+            <pubDate>Sun, 06 Mar 2016 15:31:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.dronecoalition.net/kgarrison/files/2015/09/ZENMUSE-X5-__-800_01.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.dronecoalition.net/abaker/under-the-hood-3dr-solo-part-3/</link>
             <guid isPermaLink="false">dd857677-8b8b-46bd-a7a5-f6c8735d5f2c</guid>
             <pubDate>Sun, 06 Mar 2016 15:28:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.dronecoalition.net/jfoster/files/2015/11/UAV_Montage-600.png">]]></description>
-            <link>http://www.dronecoalition.net/</link>
-            <guid isPermaLink="false">9557243e-dc68-4b70-a349-ee29ca713b5b</guid>
-            <pubDate>Sun, 06 Mar 2016 15:27:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
