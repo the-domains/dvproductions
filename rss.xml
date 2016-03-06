@@ -4,8 +4,15 @@
         <description><![CDATA[dvproductions]]></description>
         <link>https://thegrid.ai/dvproductions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:32:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dvproductions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DJI - The World Leader in Camera Drones/Quadcopters for Aerial Photography]]></title>
+            <description><![CDATA[<article><h1>DJI - The World Leader in Camera Drones/Quadcopters for Aerial Photography</h1><p>Thank you for your interest in the DJI Go application (the "DJI Go App") offered by SZ DJI Technology Co., Ltd. ( "DJI"). Please read the following terms and conditions carefully.</p></article>]]></description>
+            <link>http://www.dji.com/mobile/flysafe/geo-system/unlock</link>
+            <guid isPermaLink="false">5c59bc11-7ad8-4d52-8752-63540d67da6c</guid>
+            <pubDate>Sun, 06 Mar 2016 15:31:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DJI - The World Leader in Camera Drones/Quadcopters for Aerial Photography]]></title>
             <description><![CDATA[<article><h1>DJI - The World Leader in Camera Drones/Quadcopters for Aerial Photography</h1><p>As the market leader in easy-to-fly drones and aerial photography systems, DJI quadcopters like the Phantom are the standard in consumer drone technology.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.dronecoalition.net/page/3/</link>
             <guid isPermaLink="false">3559f785-774d-4029-bfcc-b6f67abaf47f</guid>
             <pubDate>Sun, 06 Mar 2016 15:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.dronecoalition.net/abaker/files/2015/08/Solo_Teardown1.jpg">]]></description>
-            <link>http://www.dronecoalition.net/abaker/under-the-hood-3dr-solo-part-1/</link>
-            <guid isPermaLink="false">13963737-e775-41cd-9c24-42a8b0605b80</guid>
-            <pubDate>Sun, 06 Mar 2016 15:28:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
