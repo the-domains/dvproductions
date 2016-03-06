@@ -4,8 +4,15 @@
         <description><![CDATA[dvproductions]]></description>
         <link>https://thegrid.ai/dvproductions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 15:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 15:30:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dvproductions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d1w5usc88actyi.cloudfront.net/styles/full/s3/lead/2015/10/zenmuse_x5_test_footage.jpg">]]></description>
+            <link>https://fstoppers.com/aerial/dji-zenmuse-x5-makes-inspire-1-worth-buying-91492</link>
+            <guid isPermaLink="false">e6430aed-f77d-44c0-8d32-2e79b606bb83</guid>
+            <pubDate>Sun, 06 Mar 2016 15:30:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.dronecoalition.net/csmith/files/2015/08/Screen-Shot-2015-08-30-at-11.21.31-AM-1024x537.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://3drobotics.com/3dr-year-in-review/?utm_source=3DR&amp;utm_campaign=1d5c61770c-End_of_Year1_1_2016&amp;utm_medium=email&amp;utm_term=0_48ef0db73c-1d5c61770c-233338233&amp;mc_cid=1d5c61770c&amp;mc_eid=f51067735f</link>
             <guid isPermaLink="false">09972532-d4a6-4a1b-b105-d68db6379c1c</guid>
             <pubDate>Sun, 06 Mar 2016 15:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.dronecoalition.net/abaker/files/2015/08/Solo_Teardown2-300x200.jpg">]]></description>
-            <link>http://www.dronecoalition.net/abaker/under-the-hood-3dr-solo-part-2/</link>
-            <guid isPermaLink="false">2bb3b783-7e27-43b8-82a2-0d0fd9818388</guid>
-            <pubDate>Sun, 06 Mar 2016 15:25:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
